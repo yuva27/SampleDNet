@@ -14,4 +14,12 @@
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
             title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
     </p>
+    <table>
+    <tr>
+    <td>
+    Tested for updated vesion merge.
+    </td>
+    </tr>
+    
+    </table>
 </asp:Content>
