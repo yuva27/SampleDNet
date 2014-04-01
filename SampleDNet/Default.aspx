@@ -20,6 +20,6 @@
     Tested for updated vesion merge. hello for phillyger
     </td>
     </tr>
-    <!-- Test comments 123456789-->
+    <!-- Test comments 123456-->
     </table> 
 </asp:Content>
